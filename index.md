@@ -1,9 +1,9 @@
 *Hello*, **world!**
 ---
-# Heading 1
+# This is the first text I have created
 ## This is heading 2
 [Link 1] http://a.com
-> This is a blockquote
+> This is a blockquote lol
 
 
 * Item 1
