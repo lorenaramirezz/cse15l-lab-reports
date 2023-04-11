@@ -1,5 +1,5 @@
 
-# Installing VSCode
+# Installing VScode
 
 If VScode is not already installed on your computer, here is the link: [VSCode Installation](https://code.visualstudio.com/)
 
@@ -14,8 +14,21 @@ My page might look a bit different than yours if you just installed it but no wo
 Prior to remotely connecting, I had to set my password for my course-specific account on ieng6. 
 You can look up your course-specific account for CSE 15L here: [ieng6](https://sdacs.ucsd.edu/~icc/index.php)
 
+The following page will be shown, you can type your username and your studentID in order to find your account.
+![ieng6](ieng6(1).png)
+
 I had to reset my password prior to connecting to this remote server. 
-This tutorial explains this process of resetting your password well: [Reset Password Tutorial](https://drive.google.com/file/d/17IDZn8Qq7Q0RkYMxdiIR0o6HJ3B5YqSW/view?usp=share_link)
+
+![ieng6](ieng6(2).png)
+
+In order to do that, click on your course-specific account under "Additional Accounts". It should be the one beginning with cs15lsp23zz (the last two letters should be specific to you).
+
+Now, the following page is shown. Click on the hyper link named 'Global Password Change Tool', as seen in blue. 
+![ieng6](ieng6(3).png)
+
+I have already reset my password so I will not be doing the steps further but after setting your password, we can proceed to the next steps!
+
+
 
 # Remotely Connecting
 In VScode you want to open up the terminal, you can do this by going to Terminal --> New Terminal.
@@ -45,7 +58,11 @@ Now this means that the terminal is now connected to a computer in the CSE basem
 
 Now we can run some of the commands we have learned!
 
-# Running Commands
+# Trying Some Commands
+
+We can try the commands we have learned, `cd`, `ls`, `pwd`, `mkdir`, and `cp`.
+I tried variations of these commands as seen below. 
+![Running Commands](runningcommands.png)
 
 
 
