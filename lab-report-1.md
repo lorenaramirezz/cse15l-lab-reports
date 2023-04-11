@@ -1,5 +1,7 @@
+# Lab Report 1
 
-# Installing VScode
+
+## Installing VScode
 
 If VScode is not already installed on your computer, here is the link: [VSCode Installation](https://code.visualstudio.com/)
 
@@ -10,7 +12,7 @@ My page might look a bit different than yours if you just installed it but no wo
 
 ![VS Code Installation](vscodescreenshot.png)
 
-# CSE15L account
+## CSE15L account
 Prior to remotely connecting, I had to set my password for my course-specific account on ieng6. 
 You can look up your course-specific account for CSE 15L here: [ieng6](https://sdacs.ucsd.edu/~icc/index.php)
 
@@ -30,7 +32,7 @@ I have already reset my password so I will not be doing the steps further but af
 
 
 
-# Remotely Connecting
+## Remotely Connecting
 In VScode you want to open up the terminal, you can do this by going to Terminal --> New Terminal.
 In this terminal you want to type the following:
 
@@ -58,7 +60,7 @@ Now this means that the terminal is now connected to a computer in the CSE basem
 
 Now we can run some of the commands we have learned!
 
-# Trying Some Commands
+## Trying Some Commands
 
 We can try the commands we have learned, `cd`, `ls`, `pwd`, `mkdir`, and `cp`.
 I tried variations of these commands as seen below. 
