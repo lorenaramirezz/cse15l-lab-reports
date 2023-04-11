@@ -8,7 +8,7 @@ As you know, there are different versions to install for macOS and Windows so ma
 
 My page might look a bit different than yours if you just installed it but no worries.
 
-![VS Code](Screen Shot 2023-04-06 at 12.29.28 PM.PNG)
+! [VS Code](cse15l-lab-reports/Screen Shot 2023-04-06 at 12.29.28 PM.png)
 
 # CSE15L account
 Prior to remotely connecting, I had to set my password for my course-specific account on ieng6. 
