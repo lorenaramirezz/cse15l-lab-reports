@@ -1,23 +1,24 @@
 
 # Installing VSCode
 
-If VScode is not already installed on your computer, here is the link: [Link] https://code.visualstudio.com/
+If VScode is not already installed on your computer, here is the link: [VSCode Installation](https://code.visualstudio.com/)
 
 There are instructions for downloading and installing VSCode on your computer. I already had it installed so I was able to skip this step for today! 
 As you know, there are different versions to install for macOS and Windows so make sure you follow the right directions for the one that works for you!
 
 My page might look a bit different than yours if you just installed it but no worries.
 
-! [VS Code](vscodescreenshot.png)
+![VS Code Installation](vscodescreenshot.png)
 
 # CSE15L account
 Prior to remotely connecting, I had to set my password for my course-specific account on ieng6. 
-You can look up your course-specific account for CSE 15L here: https://sdacs.ucsd.edu/~icc/index.php
+You can look up your course-specific account for CSE 15L here: [ieng6](https://sdacs.ucsd.edu/~icc/index.php)
+
 I had to reset my password prior to connecting to this remote server. 
-This tutorial explains this process of resseting your password well: https://drive.google.com/file/d/17IDZn8Qq7Q0RkYMxdiIR0o6HJ3B5YqSW/view?usp=share_link
+This tutorial explains this process of resetting your password well: [Reset Password Tutorial](https://drive.google.com/file/d/17IDZn8Qq7Q0RkYMxdiIR0o6HJ3B5YqSW/view?usp=share_link)
 
 # Remotely Connecting
-Now at this point I had some trouble connecting to a remote server but as of now it seems to be working again. In VScode you want to open up the terminal, you can do this by going to Terminal --> New Terminal.
+In VScode you want to open up the terminal, you can do this by going to Terminal --> New Terminal.
 In this terminal you want to type the following:
 
 `$ ssh cs15lsp23zz@ieng6.ucsd.edu`
@@ -35,23 +36,14 @@ Are you sure you want to continue connecting (yes/no/[fingerprint])?
 
 Type in yes and hit enter, it should then ask for your password. 
 Type in your password and hit enter once again. 
-```
-Last login: Sun Jan  2 14:03:05 2022 from 107-217-10-235.lightspeed.sndgca.sbcglobal.net
-quota: No filesystem specified.
-Hello cs15lsp23zz, you are currently logged into ieng6-203.ucsd.edu
 
-You are using 0% CPU on this system
+You should see something similar to the image below. 
 
-Cluster Status 
-Hostname     Time    #Users  Load  Averages  
-ieng6-201   23:25:01   0  0.08,  0.17,  0.11
-ieng6-202   23:25:01   1  0.09,  0.15,  0.11
-ieng6-203   23:25:01   1  0.08,  0.15,  0.11
+![Remotely Connecting](remotelyconnecting.png)
 
-Sun Jan 02, 2022 11:28pm - Prepping cs15lsp23
-```
+Now this means that the terminal is now connected to a computer in the CSE basement!
 
-Now this means that the terminal is now connected to a computer in the CSE basement.
+Now we can run some of the commands we have learned!
 
 # Running Commands
 
