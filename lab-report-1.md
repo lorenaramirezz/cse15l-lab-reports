@@ -83,5 +83,7 @@ These commands are very useful to move around your file system.
 
 `cp` stands for "copy". It is used to copy files or directories from one location to another. An example would be `cp file.txt ~/newDir`. This would copy the file "file.txt" from your current directory to a directory called "newDir". I got a similar error message as I did the last command when I did not add an argument after `cd`. When using this command we need to provide two arguments. 
 
+Now we can move around our file systems with ease! These will come to be very helpful in future labs or projects. 
+
 
 
