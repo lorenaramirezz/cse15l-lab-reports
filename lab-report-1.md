@@ -12,6 +12,8 @@ My page might look a bit different than yours if you just installed it but no wo
 
 ![VS Code Installation](vscodescreenshot.png)
 
+
+
 ## CSE15L account
 Prior to remotely connecting, I had to set my password for my course-specific account on ieng6. 
 You can look up your course-specific account for CSE 15L here: [ieng6](https://sdacs.ucsd.edu/~icc/index.php)
