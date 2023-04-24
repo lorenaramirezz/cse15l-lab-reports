@@ -8,7 +8,8 @@ If VScode is not already installed on your computer, here is the link: [VSCode I
 There are instructions for downloading and installing VSCode on your computer. I already had it installed so I was able to skip this step for today! 
 As you know, there are different versions to install for macOS and Windows so make sure you follow the right directions for the one that works for you!
 
-My page might look a bit different than yours if you just installed it but no worries.
+My page might look a bit different than yours if you just installed it but no worries but, it should look something similar to my image below!  
+
 
 ![VS Code Installation](vscodescreenshot.png)  
 
