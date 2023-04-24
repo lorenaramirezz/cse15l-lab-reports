@@ -10,7 +10,7 @@ As you know, there are different versions to install for macOS and Windows so ma
 
 My page might look a bit different than yours if you just installed it but no worries.
 
-![VS Code Installation](vscodescreenshot.png)
+![VS Code Installation](vscodescreenshot.png)  
 
 
 
