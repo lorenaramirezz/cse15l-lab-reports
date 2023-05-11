@@ -190,8 +190,8 @@ technical/biomed/rr191.txt
 In the commands I gave above, I specified the file type by writing `-type f`. This would limit the search to only files and not directories. The word `-exec` allows us to execute a command on the files that were found. This command is useful if you wanted to delete a specific file or files with a patterned file name like I showed above. Honestly I think that this command is a little scary because it just deletes certain files without confirmation of anything but I can see why it would be useful if you knew what you wanted to delete. 
 
 The sources that I used were:
-![url](https://www.redhat.com/sysadmin/linux-find-command)
-![url2](https://www.tecmint.com/35-practical-examples-of-linux-find-command/)
+[Source 1!](https://www.redhat.com/sysadmin/linux-find-command)
+[Source 2!](https://www.tecmint.com/35-practical-examples-of-linux-find-command/)
 
 
 
