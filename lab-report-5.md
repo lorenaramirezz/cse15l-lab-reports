@@ -1,6 +1,4 @@
-# Lab Report 5
-## Debugging Scenario
-
+# Lab Report 5 - Debugging Scenario
 ![edstem](edstem1.png)
 ![edstem](edstem2.png)
 ![edstem](edstem3.png)
