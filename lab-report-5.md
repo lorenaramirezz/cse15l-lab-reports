@@ -17,7 +17,7 @@ what your current working directory is and see if that is an issue. It's always 
 ## Solution
 ![pwd](bashscript2.png)
 After including this line I was able to figure out that we were not in the right directory after printing the working directory. In order to fix this issue, I had
-to cd into `student-submission` before I compile and run the java files. It was interesting that this errror occurred from the java file TestListExamples but it was from being in the wrong directory. 
+to cd into `student-submission` before I compile and run the java files. It was interesting that this errror made it seem like this occurred from the java file TestListExamples but it was from being in the wrong directory. 
 
 
 ## Reflection 
